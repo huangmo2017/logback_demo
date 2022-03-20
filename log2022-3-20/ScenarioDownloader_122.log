@@ -1,0 +1,8 @@
+2022-03-20 21:41:14,724 INFO (HelloController.java:22)- test hello
+2022-03-20 21:41:14,725 INFO (HelloService.java:22)- sdfsdf
+2022-03-20 21:41:14,790 INFO (HelloController.java:22)- test hello
+2022-03-20 21:41:14,790 INFO (HelloService.java:22)- sdfsdf
+2022-03-20 21:41:14,938 INFO (HelloController.java:22)- test hello
+2022-03-20 21:41:14,938 INFO (HelloService.java:22)- sdfsdf
+2022-03-20 21:41:15,085 INFO (HelloController.java:22)- test hello
+2022-03-20 21:41:15,086 INFO (HelloService.java:22)- sdfsdf
